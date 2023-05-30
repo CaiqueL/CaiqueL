@@ -1,6 +1,5 @@
-### Hi there 👋 My name is Caique Lopes, and i'm a Software Developer and future Pentester from Brazil ! 🇧🇷
+### Hi there 👋 My name is Caique Lopes, and i'm a Software Developer and future Pentester from Brazil ! :brazil:
 
-teste teste
 
 <!--
 **CaiqueL/CaiqueL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
